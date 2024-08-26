@@ -2,12 +2,12 @@
 
 ## Short Description:
 
-A shopping website with 10 items on it. This website wil be changed and improved upon in the future. This website can display items and the prices of the items, add them to a cart, display more products, display the home page and has a contact page. Website is used to buy items online so that these items can be shipped to you.
+A shopping website with 10 items on it. This website will be changed and improved upon in the future. This website can display items and the prices of the items, add them to a cart, display more products, display the home page and has a contact page. Website is used to buy items online so that these items can be shipped to you.
 
 ## Table of Contents:
 
 
-##  Installation:
+##  Installation for website:
 
 Link for the install of the website:
 https://github.com/wdkawesome/Website/blob/main/online_shopping.html
@@ -17,3 +17,16 @@ Click the button the arrow is pointed to in this picture below to download file:
 
 #### Url link: https://github.com/wdkawesome/Website/blob/main/download.png
 
+## Instructions on how to use website:
+
+Step 1: Right click on the installed file and choose 'open with' and select your browser (Google chrome, Microsoft Edge).
+
+Step 2: Your now at the home page of the website and can chose which items you want and add the to the cart.
+
+Step 3: (Not availible yet) Go to the Cart page, where the items prices wil be counted up and a total wil be displayed.
+
+Step 4: If you are happy with your Cart, you can click on the checkout button which will redirect you to a page that will ask for your bank card details.
+
+Step 5: Enter your details and your adress on this page so that the items can be shipped to you. 
+
+Step 6: If you encounter any problems on the website or your delivery is late, you can head to the contact page, where you can submit a query by entering your Full name and email adress and then stating the problem you have encountered.
