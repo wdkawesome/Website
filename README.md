@@ -20,10 +20,12 @@ Click the button the arrow is pointed to in this picture below to download file:
 ## Instructions on how to use website:
 
 Step 1: Right click on the installed file and choose 'open with' and select your browser (Google chrome, Microsoft Edge).
-![downloaded](
+![downloaded](https://github.com/wdkawesome/Website/blob/main/downloaded.png)
 
 
 Step 2: Your now at the home page of the website and can chose which items you want and add the to the cart.
+![shop](
+
 
 Step 3: (Not availible yet) Go to the Cart page, where the items prices wil be counted up and a total wil be displayed.
 
