@@ -28,7 +28,7 @@ Step 2: Your now at the home page of the website and can chose which items you w
 
 
 Step 3: (Not availible yet) Go to the Cart page, where the items prices wil be counted up and a total wil be displayed.
-![Cart](
+![Cart](https://github.com/wdkawesome/Website/blob/main/Cart.jpg)
 
 Step 4: If you are happy with your Cart, you can click on the checkout button which will redirect you to a page that will ask for your bank card details.
 
