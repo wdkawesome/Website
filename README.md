@@ -10,7 +10,7 @@ A shopping website with 10 items on it. This website will be changed and improve
 #### Short Description - https://github.com/wdkawesome/Website/blob/main/README.md#short-description
 #### Installation - https://github.com/wdkawesome/Website/blob/main/README.md#installation-for-website
 ####  Instructions on how to use - https://github.com/wdkawesome/Website/blob/main/README.md#instructions-on-how-to-use-website
-#### Authors - 
+#### Authors - https://github.com/wdkawesome/Website/blob/main/README.md#authors
 
 ##  Installation for website:
 
@@ -35,8 +35,8 @@ Click the button the arrow is pointed to in this picture below to download file:
 ### Step 3: (Not available yet) Go to the Cart page, where the items prices will be counted up and a total will be displayed.
 ![Cart](https://github.com/wdkawesome/Website/blob/main/Cart.jpg)
 
-Image was taken from American Eagle.
-This websites Cart page would've looked similiar to this.
+##### Image was taken from American Eagle.
+##### This websites Cart page would've looked similiar to this.
 
 
 ### Step 4: If you are happy with your Cart, you can click on the checkout button which will redirect you to a page that will ask for your bank card details.
