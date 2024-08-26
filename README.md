@@ -13,5 +13,6 @@ link for the install of the website:
 https://github.com/wdkawesome/Website/blob/main/online_shopping.html
 
 Click the button the arrow is pointed to in this picture below to download file:
-![download](
+![download](https://github.com/wdkawesome/Website/blob/main/download.png)
+Format: ![Alt Text](url)
 
