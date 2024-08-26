@@ -57,6 +57,6 @@ Click the button the arrow is pointed to in this picture below to download file:
 
 ## Authors:
 
-Wikus kotze - https://github.com/wdkawesome/
+### Wikus kotze - https://github.com/wdkawesome/
 
-Sources for images (American Eagle) - https://www.ae.com/intl/en
+### Sources for images (American Eagle) - https://www.ae.com/intl/en
