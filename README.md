@@ -9,10 +9,11 @@ A shopping website with 10 items on it. This website wil be changed and improved
 
 ##  Installation:
 
-link for the install of the website:
+Link for the install of the website:
 https://github.com/wdkawesome/Website/blob/main/online_shopping.html
 
 Click the button the arrow is pointed to in this picture below to download file:
 ![download](https://github.com/wdkawesome/Website/blob/main/download.png)
-Format: ![Alt Text](url)
+
+#### Url link: https://github.com/wdkawesome/Website/blob/main/download.png
 
