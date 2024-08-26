@@ -9,7 +9,7 @@ A shopping website with 10 items on it. This website will be changed and improve
 #### Project name - https://github.com/wdkawesome/Website/blob/main/README.md#online_shopping
 #### Short Description - https://github.com/wdkawesome/Website/blob/main/README.md#short-description
 #### Installation - https://github.com/wdkawesome/Website/blob/main/README.md#installation-for-website
-####  Instructions on how to use - 
+####  Instructions on how to use - https://github.com/wdkawesome/Website/blob/main/README.md#instructions-on-how-to-use-website
 #### Authors - 
 
 ##  Installation for website:
